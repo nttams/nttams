@@ -6,4 +6,6 @@ I like coding, hiking, and beaches.
 
 You can reach me via email: ngothtam.me@gmail.com
 
+See a longer version [here](https://nttams.github.io/).
+
 Cheers.
